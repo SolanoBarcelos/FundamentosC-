@@ -1,0 +1,15 @@
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\bin\Debug\net6.0\Indice.exe
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\bin\Debug\net6.0\Indice.deps.json
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\bin\Debug\net6.0\Indice.runtimeconfig.json
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\bin\Debug\net6.0\Indice.dll
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\bin\Debug\net6.0\Indice.pdb
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\obj\Debug\net6.0\Indice.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\obj\Debug\net6.0\Indice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\obj\Debug\net6.0\Indice.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\obj\Debug\net6.0\Indice.AssemblyInfo.cs
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\obj\Debug\net6.0\Indice.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\obj\Debug\net6.0\Indice.dll
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\obj\Debug\net6.0\refint\Indice.dll
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\obj\Debug\net6.0\Indice.pdb
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\obj\Debug\net6.0\Indice.genruntimeconfig.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\Indice\obj\Debug\net6.0\ref\Indice.dll

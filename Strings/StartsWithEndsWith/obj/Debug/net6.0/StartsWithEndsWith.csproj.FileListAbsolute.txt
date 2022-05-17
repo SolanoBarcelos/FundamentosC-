@@ -1,0 +1,15 @@
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\bin\Debug\net6.0\StartsWithEndsWith.exe
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\bin\Debug\net6.0\StartsWithEndsWith.deps.json
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\bin\Debug\net6.0\StartsWithEndsWith.runtimeconfig.json
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\bin\Debug\net6.0\StartsWithEndsWith.dll
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\bin\Debug\net6.0\StartsWithEndsWith.pdb
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\obj\Debug\net6.0\StartsWithEndsWith.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\obj\Debug\net6.0\StartsWithEndsWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\obj\Debug\net6.0\StartsWithEndsWith.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\obj\Debug\net6.0\StartsWithEndsWith.AssemblyInfo.cs
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\obj\Debug\net6.0\StartsWithEndsWith.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\obj\Debug\net6.0\StartsWithEndsWith.dll
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\obj\Debug\net6.0\refint\StartsWithEndsWith.dll
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\obj\Debug\net6.0\StartsWithEndsWith.pdb
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\obj\Debug\net6.0\StartsWithEndsWith.genruntimeconfig.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\StartsWithEndsWith\obj\Debug\net6.0\ref\StartsWithEndsWith.dll

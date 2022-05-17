@@ -1,0 +1,15 @@
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\bin\Debug\net6.0\MetodosAdicionais.exe
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\bin\Debug\net6.0\MetodosAdicionais.deps.json
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\bin\Debug\net6.0\MetodosAdicionais.runtimeconfig.json
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\bin\Debug\net6.0\MetodosAdicionais.dll
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\bin\Debug\net6.0\MetodosAdicionais.pdb
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\obj\Debug\net6.0\MetodosAdicionais.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\obj\Debug\net6.0\MetodosAdicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\obj\Debug\net6.0\MetodosAdicionais.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\obj\Debug\net6.0\MetodosAdicionais.AssemblyInfo.cs
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\obj\Debug\net6.0\MetodosAdicionais.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\obj\Debug\net6.0\MetodosAdicionais.dll
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\obj\Debug\net6.0\refint\MetodosAdicionais.dll
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\obj\Debug\net6.0\MetodosAdicionais.pdb
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\obj\Debug\net6.0\MetodosAdicionais.genruntimeconfig.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\MetodosAdicionais\obj\Debug\net6.0\ref\MetodosAdicionais.dll

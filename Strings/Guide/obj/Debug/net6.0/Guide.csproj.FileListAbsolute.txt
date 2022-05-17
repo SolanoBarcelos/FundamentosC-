@@ -1,0 +1,15 @@
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\bin\Debug\net6.0\Guide.exe
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\bin\Debug\net6.0\Guide.deps.json
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\bin\Debug\net6.0\Guide.runtimeconfig.json
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\bin\Debug\net6.0\Guide.dll
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\bin\Debug\net6.0\Guide.pdb
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\obj\Debug\net6.0\Guide.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\obj\Debug\net6.0\Guide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\obj\Debug\net6.0\Guide.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\obj\Debug\net6.0\Guide.AssemblyInfo.cs
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\obj\Debug\net6.0\Guide.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\obj\Debug\net6.0\Guide.dll
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\obj\Debug\net6.0\refint\Guide.dll
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\obj\Debug\net6.0\Guide.pdb
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\obj\Debug\net6.0\Guide.genruntimeconfig.cache
+C:\Users\solan\Desktop\EstudosC#\Strings\Guide\obj\Debug\net6.0\ref\Guide.dll
