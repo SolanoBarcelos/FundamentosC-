@@ -1,11 +1,11 @@
 # Fundamentos C#
 
-## Repositório para exercitar conceitos:
+## Repositório para exercitar conceitos
 
 ##### Strings
 - Conceitos relacionados (dentro das subpastas da pasta Strings).
 
-##### Datas
+##### Datas - Exercícios em "Program.cs"
 - DateTime()
 - DateTime.Now.Year/Month/...
 - AddDays();
