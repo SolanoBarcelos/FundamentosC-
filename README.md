@@ -1,6 +1,6 @@
 # Fundamentos C#
 
-## Repositório para exercitar conceitos:
+## Repositório para exercitar conceitos
 
 ##### Strings
 - Conceitos relacionados (dentro das subpastas da pasta Strings).
