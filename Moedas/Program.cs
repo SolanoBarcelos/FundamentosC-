@@ -14,5 +14,5 @@ decimal valor = 10.25m; //Primeira opção pra trabalhar com moedas é decimal
 // Console.WriteLine(valor.ToString("P", CultureInfo.CreateSpecificCulture("pt-BR"))); // Formata porcentagem
 
 Console.WriteLine(Math.Round(valor)); // Arredonda na média
-Console.WriteLine(Math.Ceiling(valor)); // arredonda pra 
+Console.WriteLine(Math.Ceiling(valor)); // arredonda pra cima
 Console.WriteLine(Math.Floor(valor)); // arredonda pra baixo
