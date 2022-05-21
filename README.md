@@ -18,6 +18,13 @@
 - DateTime.Now.IsDaylightSavingTime();
 - DayOfWeek;
 
+##### Moedas - Exercícios em "Program.cs"
+- ToString("C" "F" "N" "...", CultureInfo.CreateSpecificCulture("pt-BR""...")));
+- (String.Format("{0:C}", valor));
+- Math.Round(var ...);
+- Math.Ceiling(var ...);
+- Math.Floor(var ...);
+
 ##### Utilização Framework ".Net 6.0" para aplicação em Console.
 
 ##### Tecnologias Utilizadas:
