@@ -2,7 +2,21 @@
 
 ## Repositório para exercitar conceitos:
 
-- Strings e conceitos relacionados (dentro das subpastas da pasta Strings),
+##### Strings
+- Conceitos relacionados (dentro das subpastas da pasta Strings).
+
+##### Datas
+- DateTime()
+- DateTime.Now.Year/Month/...
+- AddDays();
+- CultureInfo("pt-BR" "de-De" "...");
+- CultureInfo.CurrentCulture;
+- DateTime.UtcNow;
+- TimeZoneInfo.FindSystemTimeZoneById("...");
+- TimeSpan();
+- DaysInMonth(ano, mês));
+- DateTime.Now.IsDaylightSavingTime();
+- DayOfWeek;
 
 ##### Utilização Framework ".Net 6.0" para aplicação em Console.
 
