@@ -33,7 +33,7 @@
 - Métodos .Clone(); e CopyTo();
 
 ##### Exceptions - Exercícios em "Program.cs"
-- Try, cath, finaly
+- Try, catch, finaly
 - Class Exception (genérica)
 - IndexOutOfRangeException
 - ArgumentNullException
