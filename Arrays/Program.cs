@@ -60,7 +60,7 @@ var meuArray = new int[2] {1,2};
 
 var arr = new int[2];
 var arrb = new int[2];
-arr[0] = arrb[0];
+
 
 arr[0] = 20;
 
