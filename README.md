@@ -27,7 +27,7 @@
 
 ##### Arrays - Exercícios em "Program.cs"
 - Criação de Arrays
-- Crianção de Arrays de Structs
+- Criação de Arrays de Structs
 - Percorrer Arrays com Foreach
 - Alterar valores de Arrays
 - Métodos .Clone(); e CopyTo();
