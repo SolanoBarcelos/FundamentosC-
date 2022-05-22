@@ -32,6 +32,13 @@
 - Alterar valores de Arrays
 - Métodos .Clone(); e CopyTo();
 
+##### Exceptions - Exercícios em "Program.cs"
+- Try, cath, finaly
+- Class Exception (genérica)
+- IndexOutOfRangeException
+- ArgumentNullException
+- Criação de uma exception estendendo a Class Exception 
+
 ##### Utilização Framework ".Net 6.0" para aplicação em Console.
 
 ##### Tecnologias Utilizadas:
