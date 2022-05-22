@@ -25,6 +25,13 @@
 - Math.Ceiling(var ...);
 - Math.Floor(var ...);
 
+##### Arrays - Exercícios em "Program.cs"
+- Criação de Arrays
+- Crianção de Arrays de Structs
+- Percorrer Arrays com Foreach
+- Alterar valores de Arrays
+- Métodos .Clone(); e CopyTo();
+
 ##### Utilização Framework ".Net 6.0" para aplicação em Console.
 
 ##### Tecnologias Utilizadas:
