@@ -1,0 +1,15 @@
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Users\solan\Desktop\EstudosC#\FundamentosC#\Arrays\obj\Debug\net6.0\ref\Arrays.dll
